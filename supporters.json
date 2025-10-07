@@ -5,66 +5,36 @@
     {
       "uuid": "a77ec3de-093b-40cd-bbd7-0f85743fce72",
       "name": "lage03",
-      "tier": "bronze",
-      "joined": "2025-10-07",
-      "cosmetics": {
-        "trails": ["hearts"],
-        "addons": [],
-        "effects": []
-      }
+      "tier": "bronze"
     },
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
       "name": "Dev",
-      "tier": "gold",
-      "joined": "2025-10-07",
+      "tier": "gold"
+    },
+    {
+      "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
+      "name": "mc_johannes",
+      "tier": "gold"
+    },
+    {
+      "uuid": "12345678-1234-1234-1234-123456789abc",
+      "name": "ExpiredSupporter",
+      "tier": "none",
       "cosmetics": {
-        "trails": ["hearts", "sparkles", "cherry_blossom", "twilight", "stars"],
-        "addons": ["galaxy_tail", "starlight_ears", "halo", "twilight_wings"],
-        "effects": ["respawn_twilight"]
+        "trails": ["twilight"],
+        "addons": ["halo"],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "b2d60dcd-53fe-4138-b63f-419da363bf79",
+      "name": "PrismaticRose",
+      "cosmetics": {
+        "trails": ["cherry_blossom"],
+        "addons": ["starlight_ears"],
+        "effects": []
       }
     }
-  ],
-  "tiers": {
-    "bronze": {
-      "name": "🥉 Bronze Supporter",
-      "description": "Thank you for your support!",
-      "trails": ["hearts"],
-      "addons": [],
-      "effects": []
-    },
-    "silver": {
-      "name": "🥈 Silver Supporter",
-      "description": "Thank you for your generous support!",
-      "trails": ["hearts", "sparkles", "cherry_blossom"],
-      "addons": ["galaxy_tail"],
-      "effects": []
-    },
-    "gold": {
-      "name": "🥇 Gold Supporter",
-      "description": "Thank you for your amazing support!",
-      "trails": ["hearts", "sparkles", "cherry_blossom", "twilight", "stars"],
-      "addons": ["galaxy_tail", "starlight_ears", "halo", "twilight_wings"],
-      "effects": ["respawn_twilight"]
-    }
-  },
-  "available_cosmetics": {
-    "trails": {
-      "hearts": "💜 Pink heart particles",
-      "sparkles": "✨ Golden sparkle trail",
-      "cherry_blossom": "🌸 Cherry blossom petals",
-      "twilight": "🌙 Purple twilight particles",
-      "stars": "⭐ Shooting star trail"
-    },
-    "addons": {
-      "galaxy_tail": "💜 Galaxy-textured tail variant",
-      "starlight_ears": "✨ Glowing starlight ears",
-      "halo": "😇 Floating halo accessory",
-      "twilight_wings": "🌙 Ethereal twilight wings"
-    },
-    "effects": {
-      "respawn_twilight": "💜 Special twilight respawn effect"
-    }
-  },
-  "note": "These are cosmetic-only features to thank supporters. No gameplay advantages!"
+  ]
 }
