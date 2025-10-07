@@ -1,1 +1,70 @@
-
+{
+  "version": 1,
+  "last_updated": "2025-10-07",
+  "supporters": [
+    {
+      "uuid": "a77ec3de-093b-40cd-bbd7-0f85743fce72",
+      "name": "lage03",
+      "tier": "bronze",
+      "joined": "2025-10-07",
+      "cosmetics": {
+        "trails": ["hearts"],
+        "addons": [],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "380df991-f603-344c-a090-369bad2a924a",
+      "name": "Dev",
+      "tier": "gold",
+      "joined": "2025-10-07",
+      "cosmetics": {
+        "trails": ["hearts", "sparkles", "cherry_blossom", "twilight", "stars"],
+        "addons": ["galaxy_tail", "starlight_ears", "halo", "twilight_wings"],
+        "effects": ["respawn_twilight"]
+      }
+    }
+  ],
+  "tiers": {
+    "bronze": {
+      "name": "🥉 Bronze Supporter",
+      "description": "Thank you for your support!",
+      "trails": ["hearts"],
+      "addons": [],
+      "effects": []
+    },
+    "silver": {
+      "name": "🥈 Silver Supporter",
+      "description": "Thank you for your generous support!",
+      "trails": ["hearts", "sparkles", "cherry_blossom"],
+      "addons": ["galaxy_tail"],
+      "effects": []
+    },
+    "gold": {
+      "name": "🥇 Gold Supporter",
+      "description": "Thank you for your amazing support!",
+      "trails": ["hearts", "sparkles", "cherry_blossom", "twilight", "stars"],
+      "addons": ["galaxy_tail", "starlight_ears", "halo", "twilight_wings"],
+      "effects": ["respawn_twilight"]
+    }
+  },
+  "available_cosmetics": {
+    "trails": {
+      "hearts": "💜 Pink heart particles",
+      "sparkles": "✨ Golden sparkle trail",
+      "cherry_blossom": "🌸 Cherry blossom petals",
+      "twilight": "🌙 Purple twilight particles",
+      "stars": "⭐ Shooting star trail"
+    },
+    "addons": {
+      "galaxy_tail": "💜 Galaxy-textured tail variant",
+      "starlight_ears": "✨ Glowing starlight ears",
+      "halo": "😇 Floating halo accessory",
+      "twilight_wings": "🌙 Ethereal twilight wings"
+    },
+    "effects": {
+      "respawn_twilight": "💜 Special twilight respawn effect"
+    }
+  },
+  "note": "These are cosmetic-only features to thank supporters. No gameplay advantages!"
+}
