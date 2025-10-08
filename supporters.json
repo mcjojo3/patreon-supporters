@@ -15,6 +15,11 @@
     {
       "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
       "name": "mc_johannes",
+      "tier": "gold"
+    },
+    {
+      "uuid": "cc958356-3c96-4bc8-89b6-496b15951134",
+      "name": "84hr",
       "tier": "silver"
     },
     {
@@ -32,7 +37,7 @@
       "name": "PrismaticRose",
       "cosmetics": {
         "trails": ["cherry_blossom"],
-        "addons": ["starlight_ears"],
+        "addons": [],
         "effects": []
       }
     }
