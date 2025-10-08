@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "title": "CreRaces 1 Year Anniversary",
+      "link": "https://forms.gle/2SNpkDdT9KUtuwY26",
+      "results": [
+        { "place": "🥇", "user": "@JustAGoose", "score": "8/10" },
+        { "place": "🥈", "user": "@Memeicus", "score": "8/10" },
+        { "place": "🥉", "user": "@NelyisIshsClover", "score": "7/10" },
+        { "place": "🏅", "user": "@Nozaee", "score": "7/10" },
+        { "place": "🏅", "user": "@TallyIsManyThings", "score": "7/10" }
+      ]
+    },
+    {
+      "title": "CreRaces Milestone Quiz and Suggestion Contest (25k downloads)",
+      "link": "https://forms.gle/2VTXHRKxh3BiApvb8",
+      "results": [
+        { "place": "🥇", "user": "@Pepeba Peba", "score": "5/10" },
+        { "place": "🥈", "user": "@Misa-Fy", "score": "5/10" },
+        { "place": "🥉", "user": "@TeyTey428", "score": "4/10" },
+        { "place": "🏅", "user": "@Loupiau", "score": "4/10" },
+        { "place": "🏅", "user": "@neT", "score": "10/10" }
+      ]
+    },
+    {
+      "title": "CreRaces 2 Year Anniversary",
+      "link": "https://forms.gle/f2RPpSvjjyFC6c158",
+      "results": [
+        { "place": "🥇", "user": "@Radamanthia", "score": "12.5/14" },
+        { "place": "🥈", "user": "@Eřo the breakfast eater", "score": "11.5/14" },
+        { "place": "🥉", "user": "@Shadow", "score": "9/14" },
+        { "place": "🏅", "user": "@Koichi the Wise Fox", "score": "9.5/14" },
+        { "place": "🏅", "user": "@Orchid", "score": "8/14" }
+      ],
+      "honourable_mentions": [
+        { "user": "@NelyisIshsClover", "score": "10.5/14", "note": "Submitted after the deadline" },
+        { "user": "@TeyTey428", "score": "8/14", "note": "Lost in the coin toss" }
+      ]
+    },
+    {
+      "title": "CreRaces 3 Year Anniversary",
+      "link": "https://forms.gle/LTRPWJDSbB3Y9KW86",
+      "results": [
+        { "place": "🥇", "user": "@Shadow", "score": "8/12" },
+        { "place": "🥈", "user": "@TeyTey428", "score": "6/12" },
+        { "place": "🥉", "user": "@✬ Luna 🌈🌹", "score": "5/12" },
+        { "place": "🏅", "user": "@Eřo the breakfast eater", "score": "5/12" },
+        { "place": "🏅", "user": "@Nyx", "score": "3/12" }
+      ]
+    },
+    {
+      "title": "CreRaces 4 Year Anniversary",
+      "link": "https://forms.gle/xaCpvG8saVLbNSBb6",
+      "results": [
+        { "place": "🥇", "user": "@✬ Luna 🌈🌹", "score": "12/15" },
+        { "place": "🥈", "user": "@Radamanthia", "score": "8/15" },
+        { "place": "🥉", "user": "@Eřo the breakfast eater", "score": "8/15" }
+      ],
+      "honourable_mentions": [
+        { "user": "@TeyTey428", "score": "8/15" },
+        { "user": "@Pepeba Peba", "score": "6/15" },
+        { "user": "@Nyx", "score": "6/15" },
+        { "user": "@Mads", "score": "6/15" }
+      ]
+    }
+  ]
+}
