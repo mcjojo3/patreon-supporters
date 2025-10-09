@@ -1,2 +1,2 @@
-# patreon-supporters
-This repo manages connections from Patreon to the Twilight Lib Library mod
+# twilight-database
+This repo manages connections from Patreon and similar to the Twilight Lib Library mod
