@@ -10,7 +10,12 @@
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
       "name": "Dev",
-      "tier": "gold"
+      "tier": "none"
+      "cosmetics": {
+        "trails": ["cherry_blossom"],
+        "addons": ["tiara"],
+        "effects": []
+      }
     },
     {
       "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
@@ -37,7 +42,7 @@
       "name": "PrismaticRose",
       "cosmetics": {
         "trails": ["cherry_blossom"],
-        "addons": [],
+        "addons": ["tiara"],
         "effects": []
       }
     }
