@@ -10,7 +10,7 @@
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
       "name": "Dev",
-      "tier": "none"
+      "tier": "none",
       "cosmetics": {
         "trails": ["cherry_blossom"],
         "addons": ["tiara"],
