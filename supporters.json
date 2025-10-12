@@ -5,11 +5,13 @@
     {
       "uuid": "a77ec3de-093b-40cd-bbd7-0f85743fce72",
       "name": "lage03",
+      "note": "",
       "tier": "bronze"
     },
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
       "name": "Dev",
+      "note": "",
       "tier": "stone",
       "cosmetics": {
         "trails": ["cherry_blossom"],
@@ -20,16 +22,19 @@
     {
       "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
       "name": "mc_johannes",
+      "note": "",
       "tier": "gold"
     },
     {
       "uuid": "cc958356-3c96-4bc8-89b6-496b15951134",
       "name": "84hr",
+      "note": "",
       "tier": "silver"
     },
     {
       "uuid": "0c934760-c4b0-4610-b956-2c45c9f4d4b1",
       "name": "TeyTey428",
+      "note": "",
       "tier": "none",
       "cosmetics": {
         "trails": ["ratvenom"],
@@ -40,9 +45,40 @@
     {
       "uuid": "b2d60dcd-53fe-4138-b63f-419da363bf79",
       "name": "PrismaticRose",
+      "note": "",
       "cosmetics": {
         "trails": ["cherry_blossom"],
         "addons": ["tiara"],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "e0a41ac9-51b0-443f-bb52-ce69086fd36d",
+      "name": "E_O_Speedwagon",
+      "note": "",
+      "cosmetics": {
+        "trails": ["honey"],
+        "addons": [],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "224bc101-9f3e-430b-9e3d-48d6ea11df13",
+      "name": "Fyhir",
+      "note": "",
+      "cosmetics": {
+        "trails": ["frost_fire"],
+        "addons": [],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "c34e80a3-d619-4de7-992b-500f1ac42818",
+      "name": "loupiau",
+      "note": "",
+      "cosmetics": {
+        "trails": ["wolf_prints"],
+        "addons": [],
         "effects": []
       }
     }
