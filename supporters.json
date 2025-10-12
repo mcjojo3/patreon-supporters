@@ -14,7 +14,7 @@
       "cosmetics": {
         "trails": ["cherry_blossom"],
         "addons": ["tiara"],
-        "effects": []
+        "effects": ["respawn_twilight"]
       }
     },
     {
