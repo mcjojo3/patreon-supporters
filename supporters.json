@@ -15,7 +15,7 @@
       "tier": "stone",
       "cosmetics": {
         "trails": ["cherry_blossom"],
-        "addons": [],
+        "addons": ["tiara"],
         "effects": ["respawn_twilight"]
       }
     },
