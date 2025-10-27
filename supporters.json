@@ -67,7 +67,7 @@
       "name": "Fyhir",
       "note": "",
       "cosmetics": {
-        "trails": ["frost_fire"],
+        "trails": ["ff_fire","ff_frost"],
         "addons": [],
         "effects": []
       }
