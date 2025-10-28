@@ -14,9 +14,9 @@
       "note": "",
       "tier": "platinum",
       "cosmetics": {
-        "trails": ["wolf_prints"],
+        "trails": ["wolf_prints","ratvenom"],
         "addons": ["tiara"],
-        "effects": ["spawn_ethereal"]
+        "effects": []
       }
     },
     {
